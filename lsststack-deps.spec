@@ -1,6 +1,6 @@
 Summary:        LSST Stack core OS provided dependencies
 Name:           lsststack-deps
-Version:        1.0.0
+Version:        1.0.1
 Release:        1
 License:        APL 2.0
 Url:            https://github.com/lsst
@@ -30,5 +30,8 @@ documented at https://confluence.lsstcorp.org/display/LSWUG/Prerequisites.
 %files
 
 %changelog
+* Wed Jan 14 2015 Joshua Hoblitt <jhoblitt@cpan.org> 1.0.1-1
+- new package built with tito
+
 * Tue Jan 13 2015 jhoblitt@lsst.org
 - first working version
